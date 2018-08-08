@@ -13,6 +13,6 @@ updatePlaylist(playlist, 'Reykon', 'Mala')
 function removeFromPlaylist(playlist, Reykon) {
   delete playlist.Maluma;
   
-   playlist;
+   return playlist
   }
 
