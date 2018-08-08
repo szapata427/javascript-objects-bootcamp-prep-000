@@ -10,5 +10,7 @@ playlist[artistName] = songTitle
 updatePlaylist(playlist, 'Reykon', 'Mala')
 
 function removeFromPlaylist(playlist, artistName) {
-  delete playlist.artistName;
+  delete playlist.Reykon;
+  
+  return playlist
 }
