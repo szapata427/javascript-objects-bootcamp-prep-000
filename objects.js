@@ -12,4 +12,6 @@ updatePlaylist(playlist, 'Reykon', 'Mala')
 function removeFromPlaylist(playlist, artistName) {
   delete playlist.Reykon;
   
+  playlist;
+  
 }
