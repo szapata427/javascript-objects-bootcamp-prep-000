@@ -9,3 +9,4 @@ playlist[artistName] = songTitle
 
 updatePlaylist(playlist, 'Reykon', 'Mala')
 
+function 
