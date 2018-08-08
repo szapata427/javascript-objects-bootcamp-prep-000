@@ -11,7 +11,7 @@ updatePlaylist(playlist, 'Reykon', 'Mala')
 
 
 function removeFromPlaylist(playlist, Maluma) {
-  delete playlist.Maluma;
+  delete playlist[Maluma]
   
    return playlist
   }
