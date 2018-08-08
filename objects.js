@@ -8,12 +8,3 @@ function updatePlaylist(obj, key, value) {
 }
 
 
-function updatePlaylist(playlist, key, value) {
-  playlist[key] = value
- 
-  return playlist
-}
-
-const playlist = { mauluma: corazon}
-
-updatePlaylist(playlist, 'reykon', 'mala')
