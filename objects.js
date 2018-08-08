@@ -8,7 +8,7 @@ function updatePlaylist(playlist, Maluma, mala) {
 function removeFromPlaylist(playlist, Maluma) {
   delete.playlist.Maluma;
   
-  return playlist
+  
 }
 
 
