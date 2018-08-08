@@ -9,4 +9,6 @@ playlist[artistName] = songTitle
 
 updatePlaylist(playlist, 'Reykon', 'Mala')
 
-function 
+function removeFromPlaylist(playlist, artistName) {
+  delete playlist.Reykon
+}
